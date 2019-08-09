@@ -70,4 +70,7 @@
     opacity: .2;
 }
 
+.level-curso, .price{
+    color:rgb(255, 136, 0);
+}
 
