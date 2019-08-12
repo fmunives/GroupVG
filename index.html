@@ -16,6 +16,7 @@
   <!-- Agregando icono -->
   <link rel="shorcut icon" href="./img/logo1.png">
   <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
 
@@ -24,7 +25,7 @@
 
   <!-- Theme CSS - Includes Bootstrap -->
   <link rel="stylesheet" href="./css/main.css">
-  <link href="css/creative.min.css" rel="stylesheet">
+  <link href="css/creative.css" rel="stylesheet">
 
 </head>
 
@@ -48,10 +49,10 @@
             <a class="nav-link js-scroll-trigger" href="#about">Organización</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#services">Servicios Académicos</a>
+            <a class="nav-link js-scroll-trigger" href="#services">Cursos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#portfolio">Talleres</a>
+            <a class="nav-link js-scroll-trigger" href="#portfolio">Seminarios</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#contact">Contacto</a>
@@ -61,6 +62,33 @@
     </div>
   </nav>
 
+  <!-- Carrousel -->
+ <!--  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="./img/portfolio/cursos/building.jpg" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="./img/portfolio/cursos/design.jpg" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="./img/portfolio/cursos/metalic.jpg" class="d-block w-100" alt="...">
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div> -->
   <!-- Masthead -->
   <header class="masthead">
     <div class="container h-100">
@@ -880,6 +908,234 @@
         </div>
   </section>
 
+  <!-- Seminario free -->
+  <!-- Services Section -->
+  <section class="page-section" id="portfolio">
+    <div class="container">
+      <h2 class="text-center mt-0">Nuestros seminarios gratuitos</h2>
+      <hr class="divider my-4">
+      <div class="row">
+        <div class="card-deck mt-3">           
+            <div class="card ">
+              <img src="./img/portfolio/cursos/curso-free-2.jpeg" class="card-img-top" alt="Diseño de Sismorresistente">
+              <div class="card-body text-center">
+                <h5 class="card-title">Análisis y diseño de puentes avanzados</h5>
+                <!-- <p class="card-text">Seminario práctico</p> -->
+                <!-- modal de horario -->
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#HorarioPuente">
+                  Ver horario
+                </button>
+                <div class="modal fade" id="HorarioPuente" tabindex="-1" role="dialog" aria-labelledby="HorarioPuenteTitle" aria-hidden="true">
+                  <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="HorarioPuenteTitle">Horario de Análisis y diseño de puentes avanzados</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      <div class="modal-body ">
+                          <p>Día: <strong>Sábado 20 de Agosto de 2019.</strong></p>
+                          <p>Hora: <strong>7:00pm - 9:00pm</strong></p>
+                          <p>Lugar: <strong>Av. Los constructores 122, La Molina</strong></p>
+                          <p>Celular: <strong><a href="http://bit.ly/GrupoVYG" target="_blank">986079032 - 952538591</a></strong></p>
+                          <p>Email: <strong><a href="mailto:gerencia.grupovyg@gmail.com" target="_blank">gerencia.grupovyg@gmail.com</a></strong></p>
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                </div>
+              <div class="card-footer">
+                <small class="text-muted">Inscripciones: <span class="level-curso">Abiertas</span> </small><br>
+              </div>
+            </div>
+            <div class="card ">
+                <img src="./img/portfolio/cursos/curso-free-4.jpeg" class="card-img-top" alt="Diseño de Sismorresistente">
+                <div class="card-body text-center">
+                  <h5 class="card-title">Modelamiento y simulación  de canales y ríos</h5>
+                  <!-- <p class="card-text">Seminario práctico</p> -->
+                  <!-- modal de horario -->
+                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#HorarioRio">
+                    Ver horario
+                  </button>
+                  <div class="modal fade" id="HorarioRio" tabindex="-1" role="dialog" aria-labelledby="HorarioRioTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="HorarioRioTitle">Horario de Modelamiento y simulación  de canales y ríos</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body ">
+                            <p>Día: <strong>Sábado 24 de Agosto de 2019.</strong></p>
+                            <p>Hora: <strong>11am - 1pm</strong></p>
+                            <p>Lugar: <strong>Av. Los constructores 122, La Molina</strong></p>
+                            <p>Celular: <strong><a href="http://bit.ly/GrupoVYG" target="_blank">986079032 - 952538591</a></strong></p>
+                            <p>Email: <strong><a href="mailto:gerencia.grupovyg@gmail.com" target="_blank">gerencia.grupovyg@gmail.com</a></strong></p>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  </div>
+                <div class="card-footer">
+                  <small class="text-muted">Inscripciones: <span class="level-curso">Abiertas</span> </small><br>
+                </div>
+              </div>
+            <div class="card ">
+                <img src="./img/portfolio/cursos/curso-free-1.jpeg" class="card-img-top" alt="Diseño de Sismorresistente">
+                <div class="card-body text-center">
+                  <h5 class="card-title">Análisis y diseño de naves industriales</h5>
+                  <!-- <p class="card-text">Seminario práctico</p> -->
+                  <!-- modal de horario -->
+                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#HorarioNaves1">
+                    Ver horario
+                  </button>
+                  <div class="modal fade" id="HorarioNaves1" tabindex="-1" role="dialog" aria-labelledby="HorarioNaves1Title" aria-hidden="true">
+                    <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="HorarioNaves1Title">Horario de Análisis y diseño de naves estructurales</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body ">
+                            <p>Día: <strong>Sábado 24 de Agosto de 2019.</strong></p>
+                            <p>Hora: <strong>2:30pm - 4:30pm</strong></p>
+                            <p>Lugar: <strong>Av. Los constructores 122, La Molina</strong></p>
+                            <p>Celular: <strong><a href="http://bit.ly/GrupoVYG" target="_blank">986079032 - 952538591</a></strong></p>
+                            <p>Email: <strong><a href="mailto:gerencia.grupovyg@gmail.com" target="_blank">gerencia.grupovyg@gmail.com</a></strong></p>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  </div>
+                <div class="card-footer">
+                  <small class="text-muted">Inscripciones: <span class="level-curso">Abiertas</span> </small><br>
+                </div>
+              </div>
+                   
+        </div>
+        <div class="card-deck mt-3">           
+            <div class="card ">
+                <img src="./img/portfolio/cursos/curso-free-3.jpeg" class="card-img-top" alt="Diseño de Sismorresistente">
+                <div class="card-body text-center">
+                  <h5 class="card-title">Metodología BIM aplicada a la construcción virtual</h5>
+                  <!-- <p class="card-text">Seminario práctico</p> -->
+                  <!-- modal de horario -->
+                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#HorarioCivil">
+                    Ver horario
+                  </button>
+                  <div class="modal fade" id="HorarioCivil" tabindex="-1" role="dialog" aria-labelledby="HorarioCivilTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="HorarioCivilTitle">Horario de Metodología BIM aplicada a la construcción virtual</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body ">
+                            <p>Día: <strong>Sábado 24 de Agosto de 2019.</strong></p>
+                            <p>Hora: <strong>5:00pm - 7:00pm</strong></p>
+                            <p>Lugar: <strong>Av. Los constructores 122, La Molina</strong></p>
+                            <p>Celular: <strong><a href="http://bit.ly/GrupoVYG" target="_blank">986079032 - 952538591</a></strong></p>
+                            <p>Email: <strong><a href="mailto:gerencia.grupovyg@gmail.com" target="_blank">gerencia.grupovyg@gmail.com</a></strong></p>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  </div>
+                <div class="card-footer">
+                  <small class="text-muted">Inscripciones: <span class="level-curso">Abiertas</span> </small><br>
+                </div>
+              </div>  
+            <div class="card ">
+                <img src="./img/portfolio/cursos/curso-free-5.jpeg" class="card-img-top" alt="Diseño de Sismorresistente">
+                <div class="card-body text-center">
+                  <h5 class="card-title">Revit Architecture <br><br></h5>
+                  <!-- <p class="card-text">Seminario práctico</p> -->
+                  <!-- modal de horario -->
+                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#HorarioRevit">
+                    Ver horario
+                  </button>
+                  <div class="modal fade" id="HorarioRevit" tabindex="-1" role="dialog" aria-labelledby="HorarioRevitTitle" aria-hidden="true">
+                    <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="HorarioRevitTitle">Horario de Revit Architecture</h5>
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                          </button>
+                        </div>
+                        <div class="modal-body ">
+                            <p>Día: <strong>Sábado 24 de Agosto de 2019.</strong></p>
+                            <p>Hora: <strong>9pm - 11pm</strong></p>
+                            <p>Lugar: <strong>Av. Los constructores 122, La Molina</strong></p>
+                            <p>Celular: <strong><a href="http://bit.ly/GrupoVYG" target="_blank">986079032 - 952538591</a></strong></p>
+                            <p>Email: <strong><a href="mailto:gerencia.grupovyg@gmail.com" target="_blank">gerencia.grupovyg@gmail.com</a></strong></p>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  </div>
+                <div class="card-footer">
+                  <small class="text-muted">Inscripciones: <span class="level-curso">Abiertas</span> </small><br>
+                </div>
+              </div>
+            <div class="card " style="border-color: transparent;">
+  <!--             <img src="./img/portfolio/cursos/curso-free-3.jpeg" class="card-img-top" alt="Diseño de Sismorresistente">
+              <div class="card-body text-center">
+                <h5 class="card-title">Metodología BIM aplicada a la construcción virtual</h5>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#HorarioCivil">
+                  Ver horario
+                </button>
+                <div class="modal fade" id="HorarioCivil" tabindex="-1" role="dialog" aria-labelledby="HorarioCivilTitle" aria-hidden="true">
+                  <div class="modal-dialog modal-lg modal-dialog-scrollable" role="document">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="HorarioCivilTitle">Horario de Metodología BIM aplicada a la construcción virtual</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      <div class="modal-body ">
+                          <p>Día: <strong>Sábado 24 de Agosto de 2019.</strong></p>
+                          <p>Hora: <strong>5:00pm - 7:00pm</strong></p>
+                          <p>Lugar: <strong>Av. Los constructores 122, La Molina</strong></p>
+                          <p>Celular: <strong><a href="http://bit.ly/GrupoVYG" target="_blank">986079032 - 952538591</a></strong></p>
+                          <p>Email: <strong><a href="mailto:gerencia.grupovyg@gmail.com" target="_blank">gerencia.grupovyg@gmail.com</a></strong></p>
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                </div>
+              <div class="card-footer">
+                <small class="text-muted">Inscripciones: <span class="level-curso">Abiertas</span> </small><br>
+              </div> -->
+            </div>         
+        </div>
+        </div>
+  </section>
   <!-- Portfolio Section -->
   <!-- <section id="portfolio">
     <div class="container-fluid p-0">
@@ -996,7 +1252,7 @@
         <div class="col-lg-4 mr-auto text-center">
           <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
           <!-- Make sure to change the email address in anchor text AND the link below! -->
-          <a class="d-block" href="mailto:grupovg@gmail.com">grupovg@gmail.com</a>
+          <a class="d-block" href="mailto:gerencia.grupovyg@gmail.com">gerencia.grupovyg@gmail.com</a>
         </div>
       </div>
     </div>
