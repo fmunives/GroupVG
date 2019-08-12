@@ -72,7 +72,11 @@
     opacity: .2;
 }
 
-.level-curso, .price{
-    color:var(--color-four);
+.level-avanzado, .price{
+    color:#BF4F40;
+}
+
+.small{
+    font-size: 5px;
 }
 

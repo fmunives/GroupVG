@@ -18,6 +18,9 @@
   --color-four: #75D1BF;
   --gray-dark: #343a40;
   --font-size-primary: font-family: 'Roboto', sans-serif;
+  --level-advance: #2287FF;
+  --level-intermedio: #07FF69;
+  --level-basic: #82A1FF;
 
   --blue: #007bff;
   --indigo: #6610f2;
@@ -76,6 +79,27 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
+}
+
+.btn-level-ad {
+  color: #fff;
+  background-color: var(--level-advance);
+  border-color: var(--level-advance);
+  border-radius: 5px;
+}
+
+.btn-level-in {
+  color: #fff;
+  background-color: var(--level-intermedio);
+  border-color: var(--level-intermedio);
+  border-radius: 5px;
+}
+
+.btn-level-ba {
+  color: #fff;
+  background-color: var(--level-basic);
+  border-color: var(--level-basic);
+  border-radius: 5px;
 }
 
 [tabindex="-1"]:focus {
@@ -2626,6 +2650,9 @@ fieldset:disabled a.btn {
   background-color: var(--color-second);
   border-color: var(--color-second);
 }
+
+
+
 
 .btn-primary:hover {
   color: #fff;
