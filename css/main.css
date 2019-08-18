@@ -1,82 +1,83 @@
 @import "./creative.css";
 
-*, *::before, *::after {
-    box-sizing: border-box;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
-.mision-vision{
-    width: 100%;
-    height: 20vw;
+.mision-vision {
+  width: 100%;
+  height: 20vw;
 }
 
 .mision {
-    width: 20em;
-    float: left;
-
+  width: 20em;
+  float: left;
 }
 
 .vision {
-    width: 20em;
-    float: right;
-
+  width: 20em;
+  float: right;
 }
 
 .valores {
-    width: 100%;
-    height: 10em;;
-
+  width: 100%;
+  height: 10em;
 }
 
-.list-valores{
-    list-style: none;
+.list-valores {
+  list-style: none;
 }
 
-.list-item-valores{
-    justify-content: center;;
-    align-content: center;
-    display: inline-block;
-    padding: .5em;
-    float: none;
+.list-item-valores {
+  justify-content: center;
+  align-content: center;
+  display: inline-block;
+  padding: 0.5em;
+  float: none;
 }
 
 .modulo {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
-.item-title{
-    counter-reset: list;
-    padding-left: 10px;
+.item-title {
+  counter-reset: list;
+  padding-left: 10px;
 }
 
-.item{
-    counter-increment: list;
-    list-style: none;
-    padding-right: 10px;
-    
+.item {
+  counter-increment: list;
+  list-style: none;
+  padding-right: 10px;
 }
 
-.item::before{
-    content: counters(list, '.') '. ';
+.item::before {
+  content: counters(list, ".") ". ";
 }
 
-
-.imagen{
-    display: block;
-    background-size: contain;
-    position: fixed;
-    width:100% ;
-    height: 100vh;
-    bottom: 0;
-    right: 0;
-    left: 0;
-    opacity: .2;
+.imagen {
+  display: block;
+  background-size: contain;
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  opacity: 0.2;
 }
 
-.level-avanzado, .price{
-    color:#BF4F40;
+.level-avanzado,
+.price {
+  color: #bf4f40;
 }
 
-.small{
-    font-size: 5px;
+.small {
+  font-size: 5px;
 }
 
+.sin-curso {
+  border-color: transparent;
+}

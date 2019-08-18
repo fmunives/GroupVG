@@ -16,6 +16,7 @@
   --color-second: #474EC2;
   --color-third: #5E7BC9;
   --color-four: #75D1BF;
+  --color-inicio: darkcyan;
   --gray-dark: #343a40;
   --font-size-primary: font-family: 'Roboto', sans-serif;
   --level-advance: #051EFF;
@@ -50,6 +51,13 @@
   --breakpoint-xl: 1200px;
   --font-family-sans-serif: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.inicio{
+  color: var(--color-inicio);
+  padding-bottom: 0;
+  margin-bottom: 0;
+  padding-top: 5px;
 }
 
 *,
