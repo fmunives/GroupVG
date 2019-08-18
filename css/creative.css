@@ -5037,6 +5037,7 @@ input[type="button"].btn-block {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
+  flex-wrap: wrap;
 }
 
 .card-deck .card {
