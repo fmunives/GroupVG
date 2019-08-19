@@ -87,7 +87,7 @@
   max-width: 340px;
   right: 0.8em;
   bottom: 0.8em;
-  position: fixed;
+  /* position: fixed; */
   margin: 0;
   padding: 0;
   z-index: 999;
@@ -99,15 +99,22 @@
   cursor: pointer;
   user-select: none;
   padding: 4px 0;
-  /* background-color: #337ab7; */
-  text-align: right;
-  color: #0d7aff;
-  /* color: #fff; */
+  background-color: #337ab7;
+  text-align: center;
+  color: #fff;
 }
 
-.chatContent {
+.chat-content {
   margin: 0;
   padding: 0;
   background-color: #fff;
   display: none;
+  z-index: 999;
+}
+
+.messenger {
+  position: fixed;
+  right: 0.5em;
+  bottom: 1em;
+  color: #0d7aff;
 }
