@@ -81,3 +81,33 @@
 .sin-curso {
   border-color: transparent;
 }
+
+.chat-container {
+  width: 100%;
+  max-width: 340px;
+  right: 0.8em;
+  bottom: 0.8em;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  z-index: 999;
+}
+
+.chat-button {
+  width: 100%;
+  margin: 0;
+  cursor: pointer;
+  user-select: none;
+  padding: 4px 0;
+  /* background-color: #337ab7; */
+  text-align: right;
+  color: #0d7aff;
+  /* color: #fff; */
+}
+
+.chatContent {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  display: none;
+}
