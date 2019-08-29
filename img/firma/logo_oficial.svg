@@ -2,7 +2,15 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="726.5px" height="202px" viewBox="-5 -324 726.5 202" enable-background="new -5 -324 726.5 202" xml:space="preserve">
+	 width="456px" height="82px" viewBox="16.834 14.664 456 82" enable-background="new 16.834 14.664 456 82" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="6.2502" y1="-186.6665" x2="710.2502" y2="-186.6665">
+	<stop  offset="0" style="stop-color:#CCCCCC"/>
+	<stop  offset="0.0809" style="stop-color:#D3D3D3"/>
+	<stop  offset="0.4232" style="stop-color:#EBEBEB"/>
+	<stop  offset="0.7387" style="stop-color:#FAFAFA"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<rect x="6.25" y="-238.333" fill="url(#SVGID_1_)" width="704" height="103.333"/>
 <rect x="845.715" y="315.604" fill="#364999" width="476.568" height="133.664"/>
 <g>
 	<path fill="#FFFFFF" d="M861.916,388.802c0,12.627,3.151,24.397,8.584,34.306c-8.645-10.547-13.954-24.847-13.954-40.586
@@ -109,82 +117,83 @@
 <circle fill="#687D64" cx="255.583" cy="1210.584" r="27.578"/>
 <rect x="257.375" y="1206.483" fill="#525951" width="37.375" height="10.892"/>
 <rect x="257.375" y="1205.139" fill="#947C5C" width="37.375" height="10.893"/>
+<path fill="#ED6C26" d="M126.288,26.475v13.332c-4.489-6.201-11.783-10.234-20.033-10.234c-7.139,0-13.576,3.031-18.094,7.877
+	c-2.53,2.713-4.461,6-5.563,9.643c-0.01,0.008-0.01,0.008-0.01,0.008L73.183,63.4L58.622,88.613L19.54,20.92h11.391l27.691,47.961
+	l15.825-27.398l4.79-8.297c4.563-5.827,10.973-10.143,18.35-12.065c2.768-0.729,5.672-1.111,8.668-1.111
+	C113.731,20.01,120.651,22.404,126.288,26.475z"/>
+<path fill="#233941" d="M131.925,53.373v23.686c-0.009,0.01-0.009,0.019-0.02,0.019c-6.281,7.075-15.442,11.537-25.65,11.537
+	c-15.789,0-29.093-10.681-33.072-25.214l9.406-16.3c-0.691,2.285-1.065,4.709-1.065,7.212c0,13.658,11.073,24.74,24.731,24.74
+	c6.238,0,11.92-2.305,16.264-6.109V53.374L131.925,53.373L131.925,53.373z"/>
 <g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="19.5403" y1="54.3115" x2="126.2883" y2="54.3115">
-		<stop  offset="0" style="stop-color:#43B02A"/>
-		<stop  offset="0.5026" style="stop-color:#006A0C"/>
-		<stop  offset="1" style="stop-color:#034959"/>
-	</linearGradient>
-	<path fill="url(#SVGID_1_)" d="M126.288,26.475v13.332c-4.489-6.201-11.783-10.234-20.033-10.234
-		c-7.139,0-13.576,3.031-18.094,7.877c-2.53,2.713-4.461,6-5.563,9.643c-0.01,0.008-0.01,0.008-0.01,0.008L73.183,63.4
-		L58.622,88.613L19.54,20.92h11.391l27.691,47.961l15.825-27.398l4.79-8.297c4.563-5.827,10.973-10.143,18.35-12.065
-		c2.768-0.729,5.672-1.111,8.668-1.111C113.731,20.01,120.651,22.404,126.288,26.475z"/>
-	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="73.1829" y1="67.8574" x2="131.925" y2="67.8574">
-		<stop  offset="0" style="stop-color:#43B02A"/>
-		<stop  offset="0.466" style="stop-color:#006A0C"/>
-		<stop  offset="1" style="stop-color:#00402D"/>
-	</linearGradient>
-	<path fill="url(#SVGID_2_)" d="M131.925,53.373v23.686c-0.009,0.01-0.009,0.019-0.02,0.019
-		c-6.281,7.075-15.442,11.537-25.65,11.537c-15.789,0-29.093-10.681-33.072-25.214l9.406-16.3c-0.691,2.285-1.065,4.709-1.065,7.212
-		c0,13.658,11.073,24.74,24.731,24.74c6.238,0,11.92-2.305,16.264-6.109V53.374L131.925,53.373L131.925,53.373z"/>
-	<path fill="#4B414F" d="M131.925,77.059v0.019h-0.02C131.916,77.076,131.916,77.068,131.925,77.059z"/>
-	<rect x="139.684" y="19.979" fill="#43B02A" width="2.019" height="68.833"/>
-	<text transform="matrix(1 0 0 1 152.9421 40.0625)" fill="#3A3738" font-family="'Poppins-Regular'" font-size="18">Grupo</text>
-	<text transform="matrix(1 0 0 1 150.9426 82.8125)" fill="#00402D" font-family="'Poppins-Regular'" font-size="48">INGENIEROS</text>
+	<path fill="#ED6C26" d="M106.793-414.309v13.332c-3.871-6.201-10.16-10.234-17.273-10.234c-6.155,0-11.706,3.031-15.601,7.877
+		c-2.182,2.713-3.847,6-4.797,9.643c-0.008,0.008-0.008,0.008-0.008,0.008l-8.11,16.299l-12.555,25.213L14.75-419.864h9.821
+		l23.877,47.961l13.646-27.398l4.13-8.297c3.934-5.827,9.461-10.143,15.822-12.065c2.387-0.729,4.891-1.111,7.474-1.111
+		C95.966-420.774,101.932-418.38,106.793-414.309z"/>
+	<path fill="#233941" d="M111.654-387.411v23.686c-0.008,0.01-0.008,0.019-0.017,0.019c-5.416,7.075-13.315,11.537-22.117,11.537
+		c-13.614,0-25.085-10.681-28.517-25.214l8.111-16.3c-0.596,2.285-0.919,4.709-0.919,7.212c0,13.658,9.548,24.74,21.325,24.74
+		c5.379,0,10.278-2.305,14.023-6.109v-19.569L111.654-387.411L111.654-387.411z"/>
 </g>
+<path fill="#4B414F" d="M131.925,77.059v0.019h-0.02C131.916,77.076,131.916,77.068,131.925,77.059z"/>
+<rect x="139.684" y="19.979" fill="#58656A" width="2.019" height="68.833"/>
+<text transform="matrix(1 0 0 1 152.9421 40.0625)" fill="#3A3738" font-family="'Poppins-Regular'" font-size="18">Grupo</text>
+<text transform="matrix(1 0 0 1 150.9426 82.8125)" fill="#233941" font-family="'Poppins-Regular'" font-size="48">INGENIEROS</text>
 <g>
-	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="12.0403" y1="-63.1904" x2="124.4202" y2="-63.1904">
-		<stop  offset="0" style="stop-color:#FFC200"/>
-		<stop  offset="1" style="stop-color:#FF4B00"/>
-	</linearGradient>
-	<path fill="url(#SVGID_3_)" d="M124.42-64.13v23.69c0,0.01,0,0.02-0.01,0.02c-6.29,7.07-15.45,11.53-25.66,11.53
-		c-15.78,0-29.09-10.68-33.07-25.21L51.12-28.89L12.04-96.58h11.39l27.69,47.96l15.83-27.4l4.79-8.29
-		c4.56-5.83,10.97-10.15,18.35-12.07c2.76-0.73,5.67-1.11,8.66-1.11c7.48,0,14.4,2.39,20.04,6.47v13.33
-		c-4.49-6.2-11.79-10.24-20.04-10.24c-7.13,0-13.57,3.03-18.09,7.88c-2.53,2.71-4.46,6-5.56,9.64c-0.01,0.01-0.01,0.01-0.01,0.01
-		c-0.69,2.28-1.07,4.71-1.07,7.21c0,13.66,11.08,24.74,24.73,24.74c6.24,0,11.92-2.3,16.27-6.11v-19.57H124.42z"/>
-	<path fill="#4B414F" d="M124.425-40.441v0.019h-0.02C124.416-40.424,124.416-40.432,124.425-40.441z"/>
-	<rect x="132.184" y="-97.521" fill="#FF7715" width="2.019" height="68.833"/>
-	<text transform="matrix(1 0 0 1 145.4421 -77.4375)" fill="#3A3738" font-family="'Poppins-Regular'" font-size="18">Grupo</text>
-	<text transform="matrix(1 0 0 1 143.4426 -34.6875)" fill="#343436" font-family="'Poppins-Regular'" font-size="48">INGENIEROS</text>
+	<path fill="#ED6C26" d="M119.457,146.742v13.332c-3.957-6.201-10.385-10.233-17.657-10.233c-6.292,0-11.965,3.03-15.947,7.877
+		c-2.23,2.713-3.932,6-4.904,9.643c-0.008,0.009-0.008,0.009-0.008,0.009l-8.29,16.299l-12.833,25.213l-34.445-67.693h10.039
+		l24.406,47.961l13.948-27.398l4.222-8.297c4.021-5.826,9.671-10.143,16.172-12.064c2.439-0.729,4.999-1.111,7.64-1.111
+		C108.389,140.277,114.488,142.672,119.457,146.742z"/>
+	<path fill="#233941" d="M124.425,173.641v23.686c-0.008,0.01-0.008,0.019-0.017,0.019c-5.536,7.075-13.61,11.537-22.607,11.537
+		c-13.916,0-25.641-10.681-29.148-25.214l8.291-16.301c-0.609,2.285-0.939,4.709-0.939,7.213c0,13.658,9.76,24.74,21.797,24.74
+		c5.498,0,10.506-2.305,14.334-6.109v-19.569L124.425,173.641L124.425,173.641z"/>
 </g>
-<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="6.2502" y1="-190.1045" x2="710.2502" y2="-190.1045">
-	<stop  offset="0" style="stop-color:#CCCCCC"/>
-	<stop  offset="1" style="stop-color:#FFFFFF"/>
+<path fill="#4B414F" d="M124.425,197.326v0.019h-0.02C124.416,197.344,124.416,197.336,124.425,197.326z"/>
+<rect x="132.184" y="140.246" fill="#58656A" width="2.019" height="68.834"/>
+<text transform="matrix(1 0 0 1 145.4421 160.3301)" fill="#3A3738" font-family="'Poppins-Regular'" font-size="18">Grupo</text>
+<text transform="matrix(1 0 0 1 143.4426 203.0801)" fill="#233941" font-family="'Poppins-Regular'" font-size="48">INGENIEROS</text>
+<g>
+	<path fill="#ED6C26" d="M402.288-219.92v13.332c-4.489-6.201-11.783-10.234-20.033-10.234c-7.139,0-13.576,3.031-18.094,7.877
+		c-2.53,2.713-4.461,6-5.563,9.643c-0.01,0.008-0.01,0.008-0.01,0.008l-9.405,16.299l-14.561,25.213l-39.082-67.693h11.391
+		l27.691,47.961l15.825-27.398l4.79-8.297c4.563-5.827,10.973-10.143,18.35-12.065c2.768-0.729,5.672-1.111,8.668-1.111
+		C389.731-226.386,396.651-223.992,402.288-219.92z"/>
+	<path fill="#233941" d="M407.925-193.022v23.686c-0.009,0.01-0.009,0.019-0.02,0.019c-6.281,7.075-15.442,11.537-25.65,11.537
+		c-15.789,0-29.093-10.681-33.072-25.214l9.406-16.3c-0.691,2.285-1.065,4.709-1.065,7.212c0,13.658,11.073,24.74,24.731,24.74
+		c6.238,0,11.92-2.305,16.264-6.109v-19.569L407.925-193.022L407.925-193.022z"/>
+	<path fill="#4B414F" d="M407.925-169.337v0.019h-0.02C407.916-169.319,407.916-169.327,407.925-169.337z"/>
+	<rect x="415.684" y="-226.417" fill="#58656A" width="2.019" height="68.833"/>
+	<text transform="matrix(1 0 0 1 428.9417 -206.333)" fill="#3A3738" font-family="'Poppins-Regular'" font-size="18">Grupo</text>
+	<text transform="matrix(1 0 0 1 426.9426 -163.583)" fill="#233941" font-family="'Poppins-Regular'" font-size="48">INGENIEROS</text>
+</g>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="12.0403" y1="-63.1904" x2="124.4202" y2="-63.1904">
+	<stop  offset="0" style="stop-color:#FFC200"/>
+	<stop  offset="1" style="stop-color:#FF4B00"/>
 </linearGradient>
-<rect x="6.25" y="-253.104" fill="url(#SVGID_4_)" width="704" height="126"/>
-<g>
-	<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="296.0403" y1="-195.1904" x2="408.4202" y2="-195.1904">
-		<stop  offset="0" style="stop-color:#FFC200"/>
-		<stop  offset="1" style="stop-color:#FF4B00"/>
-	</linearGradient>
-	<path fill="url(#SVGID_5_)" d="M408.42-196.13v23.69c0,0.01,0,0.02-0.01,0.02c-6.29,7.07-15.45,11.53-25.66,11.53
-		c-15.779,0-29.09-10.68-33.07-25.21l-14.56,25.21l-39.08-67.69h11.39l27.69,47.96l15.83-27.4l4.79-8.29
-		c4.56-5.83,10.97-10.15,18.35-12.07c2.76-0.73,5.67-1.11,8.66-1.11c7.48,0,14.4,2.39,20.04,6.47v13.33
-		c-4.49-6.2-11.79-10.24-20.04-10.24c-7.13,0-13.57,3.03-18.09,7.88c-2.53,2.71-4.46,6-5.561,9.64c-0.01,0.01-0.01,0.01-0.01,0.01
-		c-0.689,2.28-1.07,4.71-1.07,7.21c0,13.66,11.08,24.74,24.73,24.74c6.24,0,11.92-2.3,16.27-6.11v-19.57H408.42z"/>
-	<path fill="#4B414F" d="M408.425-172.441v0.019h-0.02C408.416-172.424,408.416-172.432,408.425-172.441z"/>
-	<rect x="416.184" y="-229.521" fill="#FF7715" width="2.019" height="68.833"/>
-	<text transform="matrix(1 0 0 1 429.4417 -209.4375)" fill="#3A3738" font-family="'Poppins-Regular'" font-size="18">Grupo</text>
-	<text transform="matrix(1 0 0 1 427.4426 -166.6875)" fill="#343436" font-family="'Poppins-Regular'" font-size="48">INGENIEROS</text>
-</g>
+<path fill="url(#SVGID_2_)" d="M124.42-64.13v23.69c0,0.01,0,0.02-0.01,0.02c-6.29,7.07-15.45,11.53-25.66,11.53
+	c-15.78,0-29.09-10.68-33.07-25.21L51.12-28.89L12.04-96.58h11.39l27.69,47.96l15.83-27.4l4.79-8.29
+	c4.56-5.83,10.97-10.15,18.35-12.07c2.76-0.73,5.67-1.11,8.66-1.11c7.48,0,14.4,2.39,20.04,6.47v13.33
+	c-4.49-6.2-11.79-10.24-20.04-10.24c-7.13,0-13.57,3.03-18.09,7.88c-2.53,2.71-4.46,6-5.56,9.64c-0.01,0.01-0.01,0.01-0.01,0.01
+	c-0.69,2.28-1.07,4.71-1.07,7.21c0,13.66,11.08,24.74,24.73,24.74c6.24,0,11.92-2.3,16.27-6.11v-19.57H124.42z"/>
+<path fill="#4B414F" d="M124.425-40.441v0.019h-0.02C124.416-40.424,124.416-40.432,124.425-40.441z"/>
+<rect x="132.184" y="-97.521" fill="#FF7715" width="2.019" height="68.833"/>
+<text transform="matrix(1 0 0 1 145.4421 -77.4375)" fill="#3A3738" font-family="'Poppins-Regular'" font-size="18">Grupo</text>
+<text transform="matrix(1 0 0 1 143.4426 -34.6875)" fill="#343436" font-family="'Poppins-Regular'" font-size="48">INGENIEROS</text>
 <text transform="matrix(1 0 0 1 36.0403 -203)"><tspan x="0" y="0" font-family="'Poppins-Regular'" font-size="36">Tu futuro </tspan><tspan x="0" y="43.2" font-family="'Poppins-Regular'" font-size="36">empieza aquí!</tspan></text>
-<text transform="matrix(1 0 0 1 462.9143 -143)" font-family="'Poppins-Regular'" font-size="12">https://fmunives.github.io/GrupoVG/</text>
-<image overflow="visible" width="71" height="128" xlink:href="phone.png"  transform="matrix(0.0846 0 0 0.0846 504.0745 -313.4341)">
+<text transform="matrix(1 0 0 1 462.9143 -142.9995)" font-family="'Poppins-Regular'" font-size="12">https://fmunives.github.io/GrupoVG/</text>
+<image overflow="visible" width="71" height="128" xlink:href="../../Desktop/Nuevo GrupoVB/GrupoVG/img/firma/phone.png"  transform="matrix(0.0846 0 0 0.0846 471.7571 -295.4326)">
 </image>
-<text transform="matrix(1 0 0 1 516.0833 -303.6016)" fill="#333333" font-family="'Poppins-Regular'" font-size="12">955-559-596</text>
-<text transform="matrix(1 0 0 1 36.0403 -304.375)" fill="#333333" font-family="'Poppins-Regular'" font-size="12">cuenta BCP: 193-2619069-0-41</text>
-<text transform="matrix(1 0 0 1 36.0403 -284.375)" fill="#333333" font-family="'Poppins-Regular'" font-size="12">cuenta CCI BCP: 002193002619069041117</text>
-<text transform="matrix(1 0 0 1 36.0403 -266.1016)" fill="#333333" font-family="'Poppins-Regular'" font-size="12">titular: Velarde Guillen &amp; Ingeniería y Construcción</text>
-<text transform="matrix(1 0 0 1 516.0833 -285.1016)" fill="#333333" font-family="'Poppins-Regular'" font-size="12">01-6913936</text>
-<text transform="matrix(1 0 0 1 516.0833 -266.1016)" fill="#333333" font-family="'Poppins-Regular'" font-size="12">gerencia.grupovg@gmail.com</text>
-<image overflow="visible" width="128" height="128" xlink:href="phone2.png"  transform="matrix(0.0985 0 0 0.0985 500.5276 -294.5273)">
+<text transform="matrix(1 0 0 1 483.7688 -285.5972)" fill="#333333" font-family="'Roboto-Regular'" font-size="14">955-559-596</text>
+<text transform="matrix(1 0 0 1 31.7258 -286.3706)" fill="#333333" font-family="'Roboto-Regular'" font-size="14">cuenta BCP: 193-2619069-0-41</text>
+<text transform="matrix(1 0 0 1 31.7258 -266.3706)" fill="#333333" font-family="'Roboto-Regular'" font-size="14">cuenta CCI BCP: 002193002619069041117</text>
+<text transform="matrix(1 0 0 1 31.7258 -248.0972)" fill="#333333" font-family="'Roboto-Regular'" font-size="14">titular: Velarde Guillen &amp; Ingeniería y Construcción</text>
+<text transform="matrix(1 0 0 1 483.7688 -267.0972)" fill="#333333" font-family="'Roboto-Regular'" font-size="14">01-6913936</text>
+<text transform="matrix(1 0 0 1 483.7688 -248.0972)" fill="#333333" font-family="'Roboto-Regular'" font-size="14">gerencia.grupovg@gmail.com</text>
+<image overflow="visible" width="128" height="128" xlink:href="../../Desktop/Nuevo GrupoVB/GrupoVG/img/firma/phone2.png"  transform="matrix(0.0985 0 0 0.0985 468.2161 -277.5195)">
 </image>
-<image overflow="visible" width="128" height="128" xlink:href="email.png"  transform="matrix(0.0914 0 0 0.0914 500.9768 -275.9023)">
+<image overflow="visible" width="128" height="128" xlink:href="../../Desktop/Nuevo GrupoVB/GrupoVG/img/firma/email.png"  transform="matrix(0.0914 0 0 0.0914 468.6643 -257.896)">
 </image>
-<image overflow="visible" width="128" height="128" xlink:href="credit_card.png"  transform="matrix(0.0956 0 0 0.0956 13.3333 -313.9072)">
+<image overflow="visible" width="128" height="128" xlink:href="../../Desktop/Nuevo GrupoVB/GrupoVG/img/firma/credit_card.png"  transform="matrix(0.0956 0 0 0.0956 14.0208 -296.9009)">
 </image>
-<image overflow="visible" width="128" height="128" xlink:href="credit_card.png"  transform="matrix(0.0956 0 0 0.0956 13.3333 -294.1064)">
+<image overflow="visible" width="128" height="128" xlink:href="../../Desktop/Nuevo GrupoVB/GrupoVG/img/firma/credit_card.png"  transform="matrix(0.0956 0 0 0.0956 14.0208 -277.1001)">
 </image>
-<image overflow="visible" width="128" height="128" xlink:href="account.png"  transform="matrix(0.1219 0 0 0.1219 12.6482 -276.8984)">
+<image overflow="visible" width="128" height="128" xlink:href="../../Desktop/Nuevo GrupoVB/GrupoVG/img/firma/account.png"  transform="matrix(0.1219 0 0 0.1219 13.3337 -260.8936)">
 </image>
 </svg>

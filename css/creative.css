@@ -12,7 +12,7 @@
  */
 :root {
 
-  --color-main: #282877;
+  --color-main: #233941;
   --color-second: #474EC2;
   --color-third: #5E7BC9;
   --color-four: #75D1BF;
@@ -10716,8 +10716,8 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 72px);
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(92, 77, 66, 0.8)), to(rgba(92, 77, 66, 0.8))), url("../img/bg-masthead.jpg");
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/bg-masthead.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(92, 77, 66, 0.65)), to(rgba(92, 77, 66, 0.8))), url("../img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.65) 0%, rgba(92, 77, 66, 0.65) 100%), url("../img/bg-masthead.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
