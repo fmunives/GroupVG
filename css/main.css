@@ -114,3 +114,7 @@
   bottom: 1em;
   color: #0d7aff;
 }
+
+.disabled {
+  display: none;
+}
